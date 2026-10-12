@@ -40,17 +40,17 @@ Public app store ratings are a goldmine of feedback, but product managers and en
 
 ## 📹 Demo & Walkthrough Video
 
-A complete 9-minute video walkthrough showcasing the application end-to-end — from URL configuration and live real-time analysis to in-depth report interpretation:
+A complete video walkthrough showcasing the application end-to-end — from URL configuration and live real-time analysis to in-depth report interpretation:
 
-https://github.com/AyushAgrawal2004/Rating-Analyzer/raw/main/MoveInSync_demo.mp4
+https://github.com/AyushAgrawal2004/Rating-Analyzer/raw/main/MoveInSync3.mp4
 
 <div align="center">
-  <video src="https://github.com/AyushAgrawal2004/Rating-Analyzer/raw/main/MoveInSync_demo.mp4" controls="controls" width="100%" style="max-height: 500px; border-radius: 16px;">
+  <video src="https://github.com/AyushAgrawal2004/Rating-Analyzer/raw/main/MoveInSync3.mp4" controls="controls" width="100%" style="max-height: 500px; border-radius: 16px;">
     Your browser does not support the video tag.
   </video>
   <br />
   <p align="center">
-    🎬 <b><a href="https://github.com/AyushAgrawal2004/Rating-Analyzer/raw/main/MoveInSync_demo.mp4">Click here to stream/download the full MoveInSync Showcase Video</a></b> (or view the <a href="./MoveInSync_demo.mp4">repository file</a>)
+    🎬 <b><a href="https://github.com/AyushAgrawal2004/Rating-Analyzer/raw/main/MoveInSync3.mp4">Click here to stream/download the full MoveInSync Showcase Video</a></b> (or view the <a href="./MoveInSync3.mp4">repository file</a>)
   </p>
 </div>
 
